@@ -7,3 +7,5 @@
   - user must be signup to use features of fitfuel
   - navigate to take users health data like height,weight etc
   - the python code in the backend will analyze the data entered by user and suggest a diet plan
+# suggested_meal.py 
+  - here our main meal suggestion algorithm works where temporarily a user_data is provided {todo-soon: after connecting it with django it will use the user data from database and do the required calculation } according to which everytime it suggest a new plan for break-fast lunch and dinner.
